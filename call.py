@@ -46,17 +46,17 @@ def delete_student(id):
 
 
 
-# # Getting data for all students
-# get_student()
+# Getting data for all students
+get_student()
 
-# # Getting student data with id = 2
-# get_student(2)
+# Getting student data with id = 2
+get_student(2)
 
-# # Creating new student
-# create_student()
+# Creating new student
+create_student()
 
-# # Updating student data with id 6
+# Updating student data with id 6
 update_student(2)
 
-# # Deleteing student data with id 8
-# delete_student(1)
+# Deleteing student data with id 8
+delete_student(1)
